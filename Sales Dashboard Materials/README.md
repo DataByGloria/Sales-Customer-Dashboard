@@ -17,8 +17,8 @@ This project provides a **comprehensive sales and customer analysis** using a da
 
 ## 📈 Dashboard Highlights & Insights
 ### 1️⃣ KPI Overview – Tracking Business Health
-✅ **Total Sales** – $733K (📈 20.36% increase YoY)  
-✅ **Total Profit** – $93K (📈 14.24% increase YoY)  
+✅ **Total Sales** – $733K (📈 20.36% increase)  
+✅ **Total Profit** – $93K (📈 14.24% increase)  
 ✅ **Total Quantity Sold** – 12K units (📈 26.83% increase YoY)  
 💡 *These trends indicate a positive sales trajectory with potential areas for optimization.*
 
@@ -44,7 +44,7 @@ This project provides a **comprehensive sales and customer analysis** using a da
 
 ## 🛠️ Tools & Technologies Used
 - **Data Visualization:** Tableau
-- **Data Processing & Cleaning:** Python (Pandas, NumPy)
+- **Data Processing & Cleaning:** Excel, Python (Pandas, NumPy)
 - **Business Intelligence Focus:** Sales Performance Analysis, Customer Segmentation
 
 ## 💡 Lessons Learned
